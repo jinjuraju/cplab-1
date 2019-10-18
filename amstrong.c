@@ -6,9 +6,9 @@ Date:13/02/2019
 #include<stdio.h>
 void main()
 {
-	int number,reverse=0,remainder,a;
+	int am,reverse=0,remainder,a;
 	printf("enter the number:");
-	scanf("%d",&number);
+	scanf("%d",&am);
 	a= number;
 	while(number>0)
 		{
